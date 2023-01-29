@@ -1,0 +1,10 @@
+This all packages you have to install for run that tool or {sys.py} file .
+
+import pyautogui
+import os
+import time
+from time import sleep
+import pyfiglet
+from rich.console import Console
+import tkinter
+from tkinter import messagebox
